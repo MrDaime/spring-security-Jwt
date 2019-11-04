@@ -1,0 +1,11 @@
+POST http://localhost:8080/authentificate
+Content-Type: application/json
+
+{
+  "name": "foo",
+  "password": "foo"
+}
+
+###
+
+
